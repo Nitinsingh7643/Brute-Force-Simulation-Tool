@@ -64,17 +64,6 @@ Do not use it on systems or endpoints you do not own or have explicit permission
 Nitin Singh
 GitHub: @Nitinsingh7643
 
-📌 To Do / Future Improvements
-⏳ Add multi-threaded password distribution
-
-🌐 Integrate proxy or delay options
-
-📊 Add login success/failure statistics
-
-🖥 Export logs to .txt or .csv
-
-🐍 Convert to .exe using pyinstaller for easy sharing
-
 ⭐️ If you found this helpful
 Consider starring ⭐ the repository to support the project!
 
@@ -84,13 +73,3 @@ Edit
 
 ---
 
-### ✅ Next Steps for You:
-
-1. Create a file called `README.md` in your root project folder
-2. Paste the content above
-3. Run:
-
-```bash
-git add README.md
-git commit -m "Add custom project README"
-git push
